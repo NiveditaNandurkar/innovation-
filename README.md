@@ -140,8 +140,8 @@ npx gh-pages -d dist
 
 ### 🔗 Live deployment link
 
-```
-< Y O U R - L I V E - U R L - H E R E >
+```text
+https://niveditanandurkar.github.io/innovation-/
 ```
 
 ---
