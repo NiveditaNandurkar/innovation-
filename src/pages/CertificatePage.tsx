@@ -1,0 +1,1 @@
+export { CertificatePortal as CertificatePage } from '../components/CertificatePortal';
